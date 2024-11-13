@@ -67,7 +67,6 @@ You can adjust parameters in `script.js`:
 
 Feel free to submit issues, fork the repository, or create a pull request if you want to contribute! Let’s make this rain effect even better together.
 
----
 
 ---
 

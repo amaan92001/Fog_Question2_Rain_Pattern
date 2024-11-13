@@ -1,0 +1,20 @@
+.grid {
+  display: grid;
+  grid-template-rows: repeat(15, 20px);
+  grid-template-columns: repeat(20, 20px);
+
+}
+
+.row {
+  display: contents;
+}
+
+.cell {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #333;
+}
+.App{
+  justify-content: center;
+  align-items: center;
+}

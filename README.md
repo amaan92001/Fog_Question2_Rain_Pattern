@@ -62,13 +62,6 @@ You can adjust parameters in `script.js`:
 
 ---
 
-## 👀 Demo
-
-For a quick preview, check out this GIF or screenshot:
-
-![Rain Pattern Demo](demo.gif)
-
----
 
 ## 🤝 Contributing
 
